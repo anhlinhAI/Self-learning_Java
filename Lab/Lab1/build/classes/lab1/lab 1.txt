@@ -1,0 +1,4 @@
+lab 1.1: Vi?t chuong trình cho phép nh?p vào m?ng
+sau dó in ra và tính t?ng các s? ch?n
+lab 1.2: vi?t chuong trình cho phép truy?n dòng l?nh.
+sau dó tính t?ng các s? dã truy?n

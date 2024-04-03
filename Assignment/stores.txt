@@ -1,0 +1,3 @@
+Code: S002, Name: Dien May Thien Hoa, Address: 88 Quang Trung, Sales: 900.0, Revenue: 10.0
+Code: S001, Name: Dien May Xanh Quang Trung, Address: 100 Quang Trung, Sales: 1500.0, Revenue: 100.0
+Code: S003, Name: The Gioi Di Dong Go Vap, Address: 10 Thong Nhat, Sales: 500.0, Revenue: 10.0
