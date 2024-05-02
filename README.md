@@ -1,4 +1,4 @@
-# Self-learning_Java
+Self-learning_Java
 Basic Java Concepts
 Welcome to the Basic Java Concepts repository! This repository serves as a beginner-friendly guide to learning Java programming. Whether you're new to programming or looking to brush up on your Java skills, you'll find essential concepts, examples, and exercises to help you get started.
 
@@ -7,7 +7,6 @@ Java is a high-level, object-oriented programming language developed by Sun Micr
 
 What to Expect
 In this repository, you'll find:
-
 Introduction to Java: An overview of Java's history, features, and applications.
 Basic Syntax: Examples and explanations of fundamental Java syntax, including variables, data types, operators, and control flow statements.
 Object-Oriented Programming (OOP): Introduction to OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation.
